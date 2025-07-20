@@ -43,7 +43,7 @@ Um MVP de um front-end para consumir o back-end de um desafio fullstack. O front
    ```sh
    npm install
    ```
-3. Configurar o arquivo .env conforme o .env.example
+3. Configurar o arquivo .env
    ```
    API_URL='http://localhost:3001'
    ```
