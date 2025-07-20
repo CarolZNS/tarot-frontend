@@ -37,7 +37,7 @@ Um MVP de um front-end para consumir o back-end de um desafio fullstack. O front
 
 1. Clone o repo
    ```bash
-   git clone 
+   git clone https://github.com/CarolZNS/tarot-frontend.git
    ```
 2. Instalar NPM packages
    ```sh
