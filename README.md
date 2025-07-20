@@ -70,6 +70,7 @@ Certifique-se que o [back-end](https://github.com/CarolZNS/tarot-backend/) estej
 ## Contato
 
 Carolina Nunes - nunes.carolzs@gmail.com
+
 Project Link: [https://github.com/CarolZNS/tarot-frontend](https://github.com/CarolZNS/tarot-frontend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
