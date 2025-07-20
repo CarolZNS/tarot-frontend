@@ -30,7 +30,7 @@ Um MVP de um front-end para consumir o back-end de um desafio fullstack. O front
 ### Pré-requisitos
 
 - Npm ou yarn.
-- O projeto Back-end já rodando. [Acesse aqui]()
+- O projeto Back-end já rodando. [Acesse aqui](https://github.com/CarolZNS/tarot-backend/)
 
 ### Instalação
 
@@ -64,12 +64,12 @@ Um MVP de um front-end para consumir o back-end de um desafio fullstack. O front
 - Página principal com leitura de cartas.
 
 ## Importante
-Certifique-se que o backend esteja rodando antes do front-end!
+Certifique-se que o [back-end](https://github.com/CarolZNS/tarot-backend/) esteja rodando antes do front-end!
 
 <!-- CONTACT -->
 ## Contato
 
 Carolina Nunes - nunes.carolzs@gmail.com
-Project Link: [https://github.com/CarolZNS/ColorDex](https://github.com/CarolZNS/ColorDex)
+Project Link: [https://github.com/CarolZNS/tarot-frontend](https://github.com/CarolZNS/tarot-frontend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
